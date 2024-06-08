@@ -7,7 +7,7 @@ Notes:
 - Firmware and Recovery NOT Included
 - Clean flash recommended if coming from 8.1 or older builds.
 - Play Integrity passes
-- Includes Moto  Dolby , Leica Camera..
+- Includes Leica Camera
 
 Notable ROM changes:
 ==============================
